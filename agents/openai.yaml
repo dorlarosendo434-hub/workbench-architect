@@ -1,0 +1,4 @@
+interface:
+  display_name: "工作台架构师"
+  short_description: "确认工作流并提供三套界面方向，再生成可迁移的搭建提示词"
+  default_prompt: "使用 $workbench-architect，帮我梳理需要什么工作台并生成可直接搭建的提示词。"
