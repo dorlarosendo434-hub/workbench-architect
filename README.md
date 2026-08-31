@@ -20,6 +20,25 @@
 
 适合个人管理、内容创作、客户跟进、财务记账、教育管理，以及各种需要把重复工作集中起来的垂直业务场景。
 
+## 工作台预览案例
+
+下面展示同一套方法在不同业务中的界面方向。`孕迹` 是已经实际搭建并验证过的本地工作台，其余四张用于展示界面方案，不代表仓库中包含对应的可运行成品。
+
+<table>
+  <tr>
+    <td width="50%"><strong>孕迹 · 孕期记录工作台</strong><br><sub>产检轨道、身体数据、检查结果、提醒和危险信号</sub><br><img src="assets/showcases/pregnancy-care-workbench.png" alt="孕迹孕期记录工作台预览"></td>
+    <td width="50%"><strong>英语学习工作台</strong><br><sub>学习计划、单词、听力、阅读、口语和能力趋势</sub><br><img src="assets/showcases/english-learning-workbench.png" alt="英语学习工作台预览"></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>个人记账工作台</strong><br><sub>收支流水、预算、账单、资产账户和财务趋势</sub><br><img src="assets/showcases/personal-finance-workbench.png" alt="个人记账工作台预览"></td>
+    <td width="50%"><strong>HR 人力资源工作台</strong><br><sub>员工、招聘、入转调离、考勤和组织数据</sub><br><img src="assets/showcases/hr-workbench.png" alt="HR 人力资源工作台预览"></td>
+  </tr>
+</table>
+
+<p><strong>项目管理工作台</strong><br><sub>任务、里程碑、风险、团队负载和项目报告</sub></p>
+
+![项目管理工作台预览](assets/showcases/project-management-workbench.png)
+
 ## 核心流程
 
 1. 提炼目标用户、真实流程、痛点、数据和交付环境。
@@ -72,7 +91,13 @@ workbench-architect/
 ├── LICENSE.md
 ├── README.md
 ├── assets/
-│   └── workbench-architect-intro-16x9.png
+│   ├── workbench-architect-intro-16x9.png
+│   └── showcases/
+│       ├── pregnancy-care-workbench.png
+│       ├── english-learning-workbench.png
+│       ├── personal-finance-workbench.png
+│       ├── hr-workbench.png
+│       └── project-management-workbench.png
 ├── agents/
 │   └── openai.yaml
 └── references/
