@@ -127,13 +127,13 @@ workbench-architect/
 
 ## 关注与交流
 
-欢迎关注公众号，获取最新的 Skill 案例分享；也可以添加微信进群交流分享。非诚勿扰。
+欢迎关注公众号，获取工作台需求梳理、界面方案、搭建案例和 AI Skill 实操分享；也可以添加微信进群，交流工作台搭建与 AI 创作工作流。非诚勿扰。
 
 添加微信时，请备注 **「AI交流」**。
 
 <table>
   <tr>
-    <td width="50%" align="center"><strong>添加微信</strong><br><sub>备注「AI交流」</sub><br><img src="assets/contact/wechat.png" alt="微信二维码" width="320"></td>
-    <td width="50%" align="center"><strong>关注公众号</strong><br><sub>获取最新 Skill 案例分享</sub><br><img src="assets/contact/wechat-official-account.jpg" alt="公众号二维码" width="320"></td>
+    <td width="50%" align="center"><strong>添加微信</strong><br><sub>备注「AI交流」，进群交流工作流</sub><br><img src="assets/contact/wechat.png" alt="微信二维码" width="300"></td>
+    <td width="50%" align="center"><strong>关注公众号</strong><br><sub>获取工作台与 Skill 实操案例</sub><br><img src="assets/contact/wechat-official-account.jpg" alt="公众号二维码" width="300"></td>
   </tr>
 </table>
