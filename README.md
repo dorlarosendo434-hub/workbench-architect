@@ -124,3 +124,16 @@ workbench-architect/
 ## 免责声明
 
 本项目按现状提供，不承诺适用于特定用途。许可声明用于明确作者的授权意图，不构成针对具体司法辖区或纠纷的法律意见。
+
+## 关注与交流
+
+欢迎关注公众号，获取最新的 Skill 案例分享；也可以添加微信进群交流分享。非诚勿扰。
+
+添加微信时，请备注 **「AI交流」**。
+
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>添加微信</strong><br><sub>备注「AI交流」</sub><br><img src="assets/contact/wechat.png" alt="微信二维码" width="320"></td>
+    <td width="50%" align="center"><strong>关注公众号</strong><br><sub>获取最新 Skill 案例分享</sub><br><img src="assets/contact/wechat-official-account.jpg" alt="公众号二维码" width="320"></td>
+  </tr>
+</table>
